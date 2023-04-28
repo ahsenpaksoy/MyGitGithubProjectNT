@@ -19,5 +19,6 @@ public class AtmProject {
         //ahsn3
         System.out.println();
         //localde degisiklik yaptim.
+        //remoteda degisiklik yaptim
     }
 }
